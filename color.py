@@ -1,0 +1,6 @@
+color = input('Please type your favorite color: ')
+print('Your favorite color is')
+print(color)
+movie = input('What is your favorite movie?\n ')
+print('Your favorite movie is')
+print(movie)
